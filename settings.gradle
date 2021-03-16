@@ -1,0 +1,3 @@
+include ':LocationHelper'
+include ':app'
+rootProject.name = "LocationLogger"
